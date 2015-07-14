@@ -1,0 +1,61 @@
+Begin Object Class=MaterialInstanceConstant Name="CelShader80sCartoon"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'/Game/CelShader46/Shaders/CelShader/CelShader.CelShader'
+   bHasStaticPermutationResource=True
+   ParentLightingGuid=9CEE1A8D4985F58CF8C29CA095203866
+   ScalarParameterValues(0)=(ParameterName="Cel Detail Contrast",ParameterValue=-0.470000,ExpressionGUID=0F86C3DE46D7149EC242D0A268293215)
+   ScalarParameterValues(1)=(ParameterName="Cel Detail Falloff End",ParameterValue=100000.000000,ExpressionGUID=A33D6E7643B684288C22E4AEC39DAFE5)
+   ScalarParameterValues(2)=(ParameterName="Cel Detail Falloff Start",ExpressionGUID=FC26B28044598870AAF6EFBC32151550)
+   ScalarParameterValues(3)=(ParameterName="Cel Detail Line Weight",ParameterValue=0.500000,ExpressionGUID=FA169D8A45C63A461D174285096A9137)
+   ScalarParameterValues(4)=(ParameterName="Cel Detail Power",ParameterValue=30.000000,ExpressionGUID=D407EB38478C5B7818EA7987DD6EEE36)
+   ScalarParameterValues(5)=(ParameterName="Cel outline bleed reduction",ExpressionGUID=B492BBA64A47B68D7A33B78DC8097FDF)
+   ScalarParameterValues(6)=(ParameterName="Cel outline depth scale",ExpressionGUID=9732E4724C3285EF54A2D5A66B2B5E36)
+   ScalarParameterValues(7)=(ParameterName="Cel outline power",ParameterValue=50.000000,ExpressionGUID=56CC658043E4B61DD2AD18868DB771A3)
+   ScalarParameterValues(8)=(ParameterName="Cel Outline Weight",ParameterValue=1.000000,ExpressionGUID=7BC66AA24B6E6CAEC93A4BA3D2BF91E3)
+   ScalarParameterValues(9)=(ParameterName="Use variable line weight",ExpressionGUID=475463E24F213472525FD4B13557FC7E)
+   ScalarParameterValues(10)=(ParameterName="Variable line weight Jagginess",ParameterValue=5.000000,ExpressionGUID=A2C7C54D4ABBA7C71A91C8BE4BB83206)
+   ScalarParameterValues(11)=(ParameterName="Far Brightness",ParameterValue=4.000000,ExpressionGUID=DBF555CF4C5D16999A8346A51902BEE0)
+   ScalarParameterValues(12)=(ParameterName="Near Brightness",ParameterValue=2.000000,ExpressionGUID=501294954A88DD12DECC16858ED850A3)
+   ScalarParameterValues(13)=(ParameterName="Transition start",ParameterValue=10000.000000,ExpressionGUID=9872EB3845F700E2FD49EC81625362B0)
+   ScalarParameterValues(14)=(ParameterName="Transition width",ParameterValue=10000.000000,ExpressionGUID=0E34B4824744FD7A1A9B2694810316FF)
+   ScalarParameterValues(15)=(ParameterName="Amplify emissive",ParameterValue=1.000000,ExpressionGUID=6CFB61FD4CBBAE25B9A3A98E86C6747E)
+   ScalarParameterValues(16)=(ParameterName="Flatten amount",ExpressionGUID=701C2CB342CDAB8EA49B0FBEB8CE4D64)
+   ScalarParameterValues(17)=(ParameterName="Flatten metallic",ExpressionGUID=C39A31F247E12CDDC4FAC98CF7E78E22)
+   ScalarParameterValues(18)=(ParameterName="Flatten specular",ExpressionGUID=36ADAA5343EF1C61E213B4AEA1713956)
+   ScalarParameterValues(19)=(ParameterName="Amplify all lines",ParameterValue=0.600000,ExpressionGUID=19BEC5D8404462C3DE772493E72102F7)
+   ScalarParameterValues(20)=(ParameterName="Detail Line Opacity",ParameterValue=1.000000,ExpressionGUID=6EDC51DF4CA9E84C6A844B8CD1AA18F2)
+   ScalarParameterValues(21)=(ParameterName="Outline Line Opacity",ParameterValue=1.000000,ExpressionGUID=5EB815CC4C6285DD427215BDF1B48DE1)
+   ScalarParameterValues(22)=(ParameterName="Shadow Line Opacity",ParameterValue=0.750000,ExpressionGUID=9C213DCE4E4F62A279EAD196AA61FF15)
+   ScalarParameterValues(23)=(ParameterName="Translucent material opacity",ParameterValue=0.750000,ExpressionGUID=F2201615429C68DC4FB3B9A678FD8D15)
+   ScalarParameterValues(24)=(ParameterName="Fade base colour",ExpressionGUID=FDAC5D5C41618EEB57E286973A74D299)
+   ScalarParameterValues(25)=(ParameterName="Posterization blend",ParameterValue=1.000000,ExpressionGUID=ECC7002843E4CEB715256FB2BD068B7E)
+   ScalarParameterValues(26)=(ParameterName="Posterization colour levels",ParameterValue=255.000000,ExpressionGUID=CBE1377647D1AC7C840A589B93A1A502)
+   ScalarParameterValues(27)=(ParameterName="Posterization darkest",ParameterValue=0.100000,ExpressionGUID=6C3C5E75448C4054ADEAC4A765CD76A6)
+   ScalarParameterValues(28)=(ParameterName="Posterization gamma",ParameterValue=0.500000,ExpressionGUID=A926926C4EE9555D27EBC1BC09520AAC)
+   ScalarParameterValues(29)=(ParameterName="Posterization lightest",ParameterValue=1.000000,ExpressionGUID=171DE9954DF2C6EA87FFD98A269045A7)
+   ScalarParameterValues(30)=(ParameterName="Posterization luminosity levels",ParameterValue=10.000000,ExpressionGUID=9115C4764464D9E14C1FC2A2BD4DA5E8)
+   ScalarParameterValues(31)=(ParameterName="Print dots colour density",ParameterValue=20.000000,ExpressionGUID=AA89A0754407DE4D63B46997D3DA494B)
+   ScalarParameterValues(32)=(ParameterName="Print dots colour density contrast",ParameterValue=100.000000,ExpressionGUID=71BDD64049E9A71D02476F8D11028391)
+   ScalarParameterValues(33)=(ParameterName="Print dots contrast",ParameterValue=1000.000000,ExpressionGUID=C46691484F5C1CA06F692E9C832676FD)
+   ScalarParameterValues(34)=(ParameterName="Print dots opacity",ExpressionGUID=B2236227489571CF092F4FB04306DF56)
+   ScalarParameterValues(35)=(ParameterName="Print dots scale",ExpressionGUID=A5FE3A0F44B2D7A3C939B196F3018188)
+   ScalarParameterValues(36)=(ParameterName="Saturation amount",ParameterValue=1.000000,ExpressionGUID=9EA252AA42999FF827FDBF8F45E9C290)
+   ScalarParameterValues(37)=(ParameterName="Shadow contrast",ParameterValue=0.500000,ExpressionGUID=F7BCC5A54D12A198353281B46EAF8E31)
+   ScalarParameterValues(38)=(ParameterName="Shadow Mask Scale",ParameterValue=1.000000,ExpressionGUID=F5772E7E49129EE03453BE87B48ACE07)
+   ScalarParameterValues(39)=(ParameterName="Shadow Power",ParameterValue=10.000000,ExpressionGUID=A00137BB4D87B3C9D2548C8D3401266C)
+   ScalarParameterValues(40)=(ParameterName="RefractionDepthBias")
+   TextureParameterValues(0)=(ParameterName="Print Dots Texture",ParameterValue=Texture2D'/Game/CelShader46/Sample_sharedassets/Textures/starhatch.starhatch',ExpressionGUID=81A2D2A44FB0D9D72D992A9613C1746A)
+   TextureParameterValues(1)=(ParameterName="Shadow Texture",ParameterValue=Texture2D'/Game/CelShader46/Shaders/CelShader/Textures/sketch_mask_2.sketch_mask_2',ExpressionGUID=E1D1E4A649F6A95635241695D7EDD18F)
+   VectorParameterValues(0)=(ParameterName="Far Colour",ParameterValue=(R=0.495000,G=0.776411,B=1.000000,A=0.000000),ExpressionGUID=740030CF41B28C151C8E3D8FD70108BF)
+   VectorParameterValues(1)=(ParameterName="Near Colour",ParameterValue=(R=0.830000,G=0.737292,B=0.701350,A=0.000000),ExpressionGUID=DA4A0BB842DF4AF7300F5EBEC3012DFF)
+   VectorParameterValues(2)=(ParameterName="Line colour",ExpressionGUID=427F3DB040B18598E52FF4943F674D79)
+   VectorParameterValues(3)=(ParameterName="Print dots paper colour",ExpressionGUID=1F84C59F4565EB29E1FF9E8EE78E4034)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300,ShadingModel=MSM_Unlit)
+   ReferencedTextureGuids(0)=C36BE11B440062B9AE121C842F0F2B9F
+   ReferencedTextureGuids(1)=5562CB8245DDB4B36362009F8BC108DC
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=0FC0ABF6407D0FD2ADB484A3D6B5E46F
+End Object
