@@ -1,43 +1,50 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Folder config file
-Desktop.ini
+# Compiled Dynamic libraries
+*.so
+*.dylib
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+*.pdb
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Executables
+*.exe
+*.out
+*.app
+*.apk
 
-# Windows shortcuts
-*.lnk
 
-# =========================
-# Operating System Files
-# =========================
+# Visual Studio project files
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
 
-# OSX
-# =========================
+# Xcode project files
+*.xcodeproj
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# Unreal Directories
+/Tacopocalypse/Binaries
+/Tacopocalypse/DerivedDataCache
+/Tacopocalypse/Intermediate
+/Tacopocalypse/Saved
+/Tacopocalypse/Build
+!/Tacopocalypse/Build/Windows/Application.ico
+/Tacopocalypse/Plugins/Substance/Binaries/
+!/Tacopocalypse/Plugins/Substance/Source/SubstanceCore/lib/linux/release/libSubstance.a
+!/Tacopocalypse/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013/release_md/Substance.lib
+!/Tacopocalypse/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013-64/release_md/Substance.lib
 
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+*.hmap
+*.exp
+*.dat
+*.dep
