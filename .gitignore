@@ -33,16 +33,16 @@
 *.xcodeproj
 
 # Unreal Directories
-/Tacopocalypse/Binaries
-/Tacopocalypse/DerivedDataCache
-/Tacopocalypse/Intermediate
-/Tacopocalypse/Saved
-/Tacopocalypse/Build
-!/Tacopocalypse/Build/Windows/Application.ico
-/Tacopocalypse/Plugins/Substance/Binaries/
-!/Tacopocalypse/Plugins/Substance/Source/SubstanceCore/lib/linux/release/libSubstance.a
-!/Tacopocalypse/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013/release_md/Substance.lib
-!/Tacopocalypse/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013-64/release_md/Substance.lib
+/Particles/Binaries
+/Particles/DerivedDataCache
+/Particles/Intermediate
+/Particles/Saved
+/Particles/Build
+!/Particles/Build/Windows/Application.ico
+/Particles/Plugins/Substance/Binaries/
+!/Particles/Plugins/Substance/Source/SubstanceCore/lib/linux/release/libSubstance.a
+!/Particles/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013/release_md/Substance.lib
+!/Particles/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013-64/release_md/Substance.lib
 
 *.hmap
 *.exp
