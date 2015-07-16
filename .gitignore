@@ -44,6 +44,8 @@
 !/Particles/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013/release_md/Substance.lib
 !/Particles/Plugins/Substance/Source/SubstanceCore/lib/win32-msvc2013-64/release_md/Substance.lib
 
+Thumbs.db
+
 *.hmap
 *.exp
 *.dat
